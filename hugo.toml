@@ -1,0 +1,5 @@
+baseURL = 'https://blog.finnhartshorn.com/'
+languageCode = 'en-au'
+title = "Finn's Blog"
+theme = 'terminal'
+
